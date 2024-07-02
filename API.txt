@@ -1,0 +1,2 @@
+API Key=e8df356682397bba8c0eba45bec7d59f
+url = https://api.openweathermap.org/data/2.5/weather?q=India&appid=e8df356682397bba8c0eba45bec7d59funits=metric
